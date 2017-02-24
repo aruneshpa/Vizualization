@@ -1,0 +1,94 @@
+.bar text {
+  fill: #fff;
+  font: 10px sans-serif;
+}
+
+.d3-tip {
+  line-height: 1;
+  font-weight: bold;
+  padding: 12px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 2px;
+}
+
+/* Creates a small triangle extender for the tooltip */
+.d3-tip:after {
+  box-sizing: border-box;
+  display: inline;
+  font-size: 10px;
+  width: 100%;
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.8);
+  content: "\25BC";
+  position: absolute;
+  text-align: center;
+}
+
+/* Style northward tooltips differently */
+.d3-tip.n:after {
+  margin: -1px 0 0 0;
+  top: 100%;
+  left: 0;
+}
+
+/* Arc Path */
+.arc path {
+    stroke: #fff;
+}
+
+/* Arc Label */
+.arc text {
+    font: 12px sans-serif;
+    text-anchor: middle;
+}
+
+.svg-bar svg-pie {
+    display: block;
+    margin: auto;
+}
+
+.chartSVG {
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+}
+
+.svg-container {
+    margin:30px;
+}
+
+.chart-button:active {
+    background:orange;
+}
+
+.chart-button:focus {
+    background:orange;
+}
+
+/* Button to adjust the bin size */
+#binsize {
+  border: solid 1px #000;
+  background: #eee;
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+  width: 240px;
+}
+
+.binsize:active {
+    background: lightcoral;
+}
+.binsize:focus {
+    background: orange;
+}
+/* CSS for Links and Nodes */
+.links line {
+  stroke: #999;
+  stroke-opacity: 0.6;
+}
+
+.nodes circle {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}

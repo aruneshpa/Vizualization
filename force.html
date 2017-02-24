@@ -1,0 +1,94 @@
+<!-- 
+    references - 
+    1. https://github.com/curran/screencasts/blob/gh-pages/introToD3/examples/code/snapshot103/index.html
+    2. https://bl.ocks.org/mbostock/3885304
+    3. http://bl.ocks.org/Caged/6476579
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Latest compiled and minified CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="css/render.css" rel="stylesheet">
+    <meta charset="UTF-8">
+    <title>HW1</title>
+</head>
+<body>
+    <input type="hidden" name="binsizehidden" id="binsizehidden" value="10" onchange="build()">
+    <div class="container">
+        <nav class="navbar navbar-inverse">
+            <div class="container-fluid">
+              <!-- Brand and toggle get grouped for better mobile display -->
+              <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                  <span class="sr-only">Toggle navigation</span>
+                </button>
+                <a class="navbar-brand" href="#">CSE-564 HW1</a>
+              </div>
+
+              <!-- Collect the nav links, forms, and other content for toggling -->
+              <div id="navbar" class="navbar-collapse collapse">
+                <ul class="nav navbar-nav navbar-right">
+                  <li class="dropdown">
+                  </li>
+                </ul>
+              </div><!-- /.navbar-collapse -->
+            </div><!-- /.container-fluid -->
+        </nav>
+        <div class="svg-container" id="svg-container" style="text-align:center;"></div>
+    </div> <!-- /.container -->
+    <!-- Create an input type to hold the value of the bin size -->
+    
+    
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js"
+    integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+    crossorigin="anonymous"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/render.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.5.0/d3.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.js"></script>
+    
+    <script type="text/javascript">
+//      var filename = "baseball_data_force.csv";
+      render_force();
+
+//      function getOptions(filename, callback) {
+//        var options = "";
+//        var XHR = new XMLHttpRequest();
+//        XHR.open("GET", filename, true);
+//        XHR.send();
+//        var options = [];
+//        XHR.onload = function (){
+//            options = String(XHR.responseText.slice(0, XHR.responseText.indexOf("\n")));
+//            callback(options.split(","));
+//        };
+//      }
+//      function loadLists(options) {
+//        var ul = document.getElementById("dynamic-dropdown");
+//        options.forEach( function(element, index) {
+//          if (element === "name" || element === "handedness") return;
+//          var li = document.createElement("li");
+//          var aTag = document.createElement("a");
+//          aTag.href = "#";
+//          li.id = "dynamic-a" + index;
+//          aTag.appendChild(document.createTextNode(element));
+//          li.appendChild(aTag);
+//          ul.appendChild(li);
+//          e = document.getElementById("dynamic-a" + index);
+//          e.addEventListener("click", function() { onClickListenner(element); }, false);
+//        });
+//      }
+//
+//      // Function to be called on each selection of the menu option.
+//      function onClickListenner(arg) {
+////        var parameterBox = document.getElementById("parameter");
+////        parameterBox.innerHTML = arg;
+////        var binsize = document.getElementById("binsizehidden").value;
+//        d3.select("svg").remove();
+//        render_force();
+//      }
+//      getOptions(filename, loadLists);
+    </script>
+</body>
+</html>

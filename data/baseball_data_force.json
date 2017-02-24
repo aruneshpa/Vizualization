@@ -1,0 +1,2907 @@
+{
+    "links": [
+        {
+            "source": "Denny Lemaster",
+            "target": "Kevin Stanfield",
+            "value": 6
+        },
+        {
+            "source": "Joe Nolan",
+            "target": "Denny Doyle",
+            "value": 4
+        },
+        {
+            "source": "Joe Nolan",
+            "target": "Juan Bonilla",
+            "value": 4
+        },
+        {
+            "source": "Joe Nolan",
+            "target": "Buck Martinez",
+            "value": 4
+        },
+        {
+            "source": "Joe Nolan",
+            "target": "Ted Ford",
+            "value": 4
+        },
+        {
+            "source": "Joe Nolan",
+            "target": "Elio Chacon",
+            "value": 4
+        },
+        {
+            "source": "Joe Nolan",
+            "target": "Rusty Torres",
+            "value": 4
+        },
+        {
+            "source": "Joe Nolan",
+            "target": "Larry Brown",
+            "value": 4
+        },
+        {
+            "source": "Jose Cardenal",
+            "target": "Denny Doyle",
+            "value": 3
+        },
+        {
+            "source": "Jose Cardenal",
+            "target": "Juan Bonilla",
+            "value": 3
+        },
+        {
+            "source": "Jose Cardenal",
+            "target": "Bump Wills",
+            "value": 3
+        },
+        {
+            "source": "Jose Cardenal",
+            "target": "Walt Williams",
+            "value": 2
+        },
+        {
+            "source": "Jose Cardenal",
+            "target": "Elio Chacon",
+            "value": 3
+        },
+        {
+            "source": "Mike Ryan",
+            "target": "Tom Brown",
+            "value": 7
+        },
+        {
+            "source": "Mike Ryan",
+            "target": "Denny Lemaster",
+            "value": 7
+        },
+        {
+            "source": "Mike Ryan",
+            "target": "Fritz Peterson",
+            "value": 7
+        },
+        {
+            "source": "Mike Ryan",
+            "target": "John LaRose",
+            "value": 7
+        },
+        {
+            "source": "Mike Ryan",
+            "target": "Jerry Kutzler",
+            "value": 7
+        },
+        {
+            "source": "Mike Ryan",
+            "target": "Eric Wilkins",
+            "value": 7
+        },
+        {
+            "source": "Mike Ryan",
+            "target": "Gil Patterson",
+            "value": 7
+        },
+        {
+            "source": "Mike Ryan",
+            "target": "Kevin Stanfield",
+            "value": 7
+        },
+        {
+            "source": "Mike Ryan",
+            "target": "Jerry Ujdur",
+            "value": 7
+        },
+        {
+            "source": "Mike Ryan",
+            "target": "Mickey Lolich",
+            "value": 7
+        },
+        {
+            "source": "Mike Ryan",
+            "target": "Tony Ferreira",
+            "value": 7
+        },
+        {
+            "source": "Mike Ryan",
+            "target": "Tommy Dean",
+            "value": 7
+        },
+        {
+            "source": "Dick Bertell",
+            "target": "Frank Tepedino",
+            "value": 5
+        },
+        {
+            "source": "Dick Bertell",
+            "target": "Buck Martinez",
+            "value": 5
+        },
+        {
+            "source": "Dick Bertell",
+            "target": "Bobby Cox",
+            "value": 5
+        },
+        {
+            "source": "Dick Bertell",
+            "target": "Jerry Buchek",
+            "value": 5
+        },
+        {
+            "source": "Dick Bertell",
+            "target": "Wayne Garrett",
+            "value": 5
+        },
+        {
+            "source": "Dick Bertell",
+            "target": "Ted Ford",
+            "value": 5
+        },
+        {
+            "source": "Dick Bertell",
+            "target": "Dal Maxvill",
+            "value": 5
+        },
+        {
+            "source": "Dick Bertell",
+            "target": "Elio Chacon",
+            "value": 4
+        },
+        {
+            "source": "Dick Bertell",
+            "target": "Rusty Torres",
+            "value": 5
+        },
+        {
+            "source": "Dick Bertell",
+            "target": "Larry Brown",
+            "value": 5
+        },
+        {
+            "source": "Rod Kanehl",
+            "target": "Fritz Peterson",
+            "value": 6
+        },
+        {
+            "source": "Rod Kanehl",
+            "target": "Buck Martinez",
+            "value": 5
+        },
+        {
+            "source": "Rod Kanehl",
+            "target": "Danny Walton",
+            "value": 6
+        },
+        {
+            "source": "Rod Kanehl",
+            "target": "Bobby Cox",
+            "value": 6
+        },
+        {
+            "source": "Rod Kanehl",
+            "target": "Brad Wellman",
+            "value": 6
+        },
+        {
+            "source": "Rod Kanehl",
+            "target": "Jerry Buchek",
+            "value": 6
+        },
+        {
+            "source": "Rod Kanehl",
+            "target": "Ed Brinkman",
+            "value": 6
+        },
+        {
+            "source": "Rod Kanehl",
+            "target": "Wayne Garrett",
+            "value": 6
+        },
+        {
+            "source": "Rod Kanehl",
+            "target": "Ted Ford",
+            "value": 5
+        },
+        {
+            "source": "Rod Kanehl",
+            "target": "Kevin Stanfield",
+            "value": 6
+        },
+        {
+            "source": "Rod Kanehl",
+            "target": "Kurt Bevacqua",
+            "value": 6
+        },
+        {
+            "source": "Rod Kanehl",
+            "target": "Dal Maxvill",
+            "value": 6
+        },
+        {
+            "source": "Rod Kanehl",
+            "target": "Jack Heidemann",
+            "value": 6
+        },
+        {
+            "source": "Rod Kanehl",
+            "target": "Hector Torres",
+            "value": 6
+        },
+        {
+            "source": "Rod Kanehl",
+            "target": "Steve Lombardozzi",
+            "value": 6
+        },
+        {
+            "source": "Rod Kanehl",
+            "target": "Elio Chacon",
+            "value": 5
+        },
+        {
+            "source": "Rod Kanehl",
+            "target": "Rusty Torres",
+            "value": 5
+        },
+        {
+            "source": "Rod Kanehl",
+            "target": "Larry Brown",
+            "value": 5
+        },
+        {
+            "source": "Rod Kanehl",
+            "target": "Tommy Dean",
+            "value": 6
+        },
+        {
+            "source": "Frank Tepedino",
+            "target": "Buck Martinez",
+            "value": 4
+        },
+        {
+            "source": "Frank Tepedino",
+            "target": "Ted Ford",
+            "value": 4
+        },
+        {
+            "source": "Frank Tepedino",
+            "target": "Elio Chacon",
+            "value": 4
+        },
+        {
+            "source": "Frank Tepedino",
+            "target": "Rusty Torres",
+            "value": 4
+        },
+        {
+            "source": "Frank Tepedino",
+            "target": "Larry Brown",
+            "value": 4
+        },
+        {
+            "source": "Rick Wise",
+            "target": "Fritz Peterson",
+            "value": 6
+        },
+        {
+            "source": "Rick Wise",
+            "target": "Kevin Stanfield",
+            "value": 6
+        },
+        {
+            "source": "Rick Wise",
+            "target": "Tommy Dean",
+            "value": 6
+        },
+        {
+            "source": "Darrell Evans",
+            "target": "Tom Brown",
+            "value": 7
+        },
+        {
+            "source": "Darrell Evans",
+            "target": "Denny Lemaster",
+            "value": 7
+        },
+        {
+            "source": "Darrell Evans",
+            "target": "Fritz Peterson",
+            "value": 7
+        },
+        {
+            "source": "Darrell Evans",
+            "target": "Rod Kanehl",
+            "value": 7
+        },
+        {
+            "source": "Darrell Evans",
+            "target": "John LaRose",
+            "value": 7
+        },
+        {
+            "source": "Darrell Evans",
+            "target": "Frank Tepedino",
+            "value": 6
+        },
+        {
+            "source": "Darrell Evans",
+            "target": "Jerry Kutzler",
+            "value": 7
+        },
+        {
+            "source": "Darrell Evans",
+            "target": "Rick Wise",
+            "value": 7
+        },
+        {
+            "source": "Darrell Evans",
+            "target": "Buck Martinez",
+            "value": 6
+        },
+        {
+            "source": "Darrell Evans",
+            "target": "Tommy McCraw",
+            "value": 7
+        },
+        {
+            "source": "Darrell Evans",
+            "target": "Eric Wilkins",
+            "value": 7
+        },
+        {
+            "source": "Darrell Evans",
+            "target": "Danny Walton",
+            "value": 7
+        },
+        {
+            "source": "Darrell Evans",
+            "target": "Bobby Cox",
+            "value": 6
+        },
+        {
+            "source": "Darrell Evans",
+            "target": "Brad Wellman",
+            "value": 7
+        },
+        {
+            "source": "Darrell Evans",
+            "target": "Pedro Gonzalez",
+            "value": 7
+        },
+        {
+            "source": "Darrell Evans",
+            "target": "Jerry Buchek",
+            "value": 6
+        },
+        {
+            "source": "Darrell Evans",
+            "target": "Gil Patterson",
+            "value": 7
+        },
+        {
+            "source": "Darrell Evans",
+            "target": "Ed Brinkman",
+            "value": 7
+        },
+        {
+            "source": "Darrell Evans",
+            "target": "Wayne Garrett",
+            "value": 6
+        },
+        {
+            "source": "Darrell Evans",
+            "target": "Ted Ford",
+            "value": 6
+        },
+        {
+            "source": "Darrell Evans",
+            "target": "Kevin Stanfield",
+            "value": 7
+        },
+        {
+            "source": "Darrell Evans",
+            "target": "Jerry Ujdur",
+            "value": 7
+        },
+        {
+            "source": "Darrell Evans",
+            "target": "Kurt Bevacqua",
+            "value": 7
+        },
+        {
+            "source": "Darrell Evans",
+            "target": "Syd O'Brien",
+            "value": 7
+        },
+        {
+            "source": "Darrell Evans",
+            "target": "Tom Satriano",
+            "value": 7
+        },
+        {
+            "source": "Darrell Evans",
+            "target": "Dal Maxvill",
+            "value": 6
+        },
+        {
+            "source": "Darrell Evans",
+            "target": "Mickey Lolich",
+            "value": 7
+        },
+        {
+            "source": "Darrell Evans",
+            "target": "Jack Heidemann",
+            "value": 7
+        },
+        {
+            "source": "Darrell Evans",
+            "target": "Hector Torres",
+            "value": 7
+        },
+        {
+            "source": "Darrell Evans",
+            "target": "Steve Lombardozzi",
+            "value": 7
+        },
+        {
+            "source": "Darrell Evans",
+            "target": "Tony Ferreira",
+            "value": 7
+        },
+        {
+            "source": "Darrell Evans",
+            "target": "Elio Chacon",
+            "value": 5
+        },
+        {
+            "source": "Darrell Evans",
+            "target": "Rusty Torres",
+            "value": 6
+        },
+        {
+            "source": "Darrell Evans",
+            "target": "Larry Brown",
+            "value": 6
+        },
+        {
+            "source": "Darrell Evans",
+            "target": "Tommy Dean",
+            "value": 7
+        },
+        {
+            "source": "Darrell Evans",
+            "target": "Marty Martinez",
+            "value": 7
+        },
+        {
+            "source": "John Wockenfuss",
+            "target": "Denny Doyle",
+            "value": 4
+        },
+        {
+            "source": "John Wockenfuss",
+            "target": "Juan Bonilla",
+            "value": 4
+        },
+        {
+            "source": "John Wockenfuss",
+            "target": "Frank Tepedino",
+            "value": 5
+        },
+        {
+            "source": "John Wockenfuss",
+            "target": "Buck Martinez",
+            "value": 5
+        },
+        {
+            "source": "John Wockenfuss",
+            "target": "Bobby Cox",
+            "value": 5
+        },
+        {
+            "source": "John Wockenfuss",
+            "target": "Jerry Buchek",
+            "value": 5
+        },
+        {
+            "source": "John Wockenfuss",
+            "target": "Ivan DeJesus",
+            "value": 5
+        },
+        {
+            "source": "John Wockenfuss",
+            "target": "Wayne Garrett",
+            "value": 5
+        },
+        {
+            "source": "John Wockenfuss",
+            "target": "Ted Ford",
+            "value": 5
+        },
+        {
+            "source": "John Wockenfuss",
+            "target": "Bo Diaz",
+            "value": 5
+        },
+        {
+            "source": "John Wockenfuss",
+            "target": "Dal Maxvill",
+            "value": 5
+        },
+        {
+            "source": "John Wockenfuss",
+            "target": "Elliott Maddox",
+            "value": 5
+        },
+        {
+            "source": "John Wockenfuss",
+            "target": "Elio Chacon",
+            "value": 4
+        },
+        {
+            "source": "John Wockenfuss",
+            "target": "Rusty Torres",
+            "value": 5
+        },
+        {
+            "source": "John Wockenfuss",
+            "target": "Larry Brown",
+            "value": 5
+        },
+        {
+            "source": "Tommy McCraw",
+            "target": "Frank Tepedino",
+            "value": 5
+        },
+        {
+            "source": "Tommy McCraw",
+            "target": "Buck Martinez",
+            "value": 5
+        },
+        {
+            "source": "Tommy McCraw",
+            "target": "Bobby Cox",
+            "value": 5
+        },
+        {
+            "source": "Tommy McCraw",
+            "target": "Jerry Buchek",
+            "value": 5
+        },
+        {
+            "source": "Tommy McCraw",
+            "target": "Wayne Garrett",
+            "value": 5
+        },
+        {
+            "source": "Tommy McCraw",
+            "target": "Ted Ford",
+            "value": 5
+        },
+        {
+            "source": "Tommy McCraw",
+            "target": "Dal Maxvill",
+            "value": 5
+        },
+        {
+            "source": "Tommy McCraw",
+            "target": "Elio Chacon",
+            "value": 4
+        },
+        {
+            "source": "Tommy McCraw",
+            "target": "Rusty Torres",
+            "value": 5
+        },
+        {
+            "source": "Tommy McCraw",
+            "target": "Larry Brown",
+            "value": 5
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Joe Nolan",
+            "value": 6
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Denny Doyle",
+            "value": 5
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Jose Cardenal",
+            "value": 5
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Fritz Peterson",
+            "value": 6
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Dick Bertell",
+            "value": 6
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Juan Bonilla",
+            "value": 5
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Frank Tepedino",
+            "value": 6
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Buck Martinez",
+            "value": 5
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "John Wockenfuss",
+            "value": 6
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Tommy McCraw",
+            "value": 6
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Danny Walton",
+            "value": 6
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Bobby Cox",
+            "value": 6
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Brad Wellman",
+            "value": 6
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Pedro Gonzalez",
+            "value": 6
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Gene Clines",
+            "value": 5
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Jerry Buchek",
+            "value": 6
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Ivan DeJesus",
+            "value": 6
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Eric Soderholm",
+            "value": 6
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Ed Brinkman",
+            "value": 6
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Wayne Garrett",
+            "value": 6
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Ted Ford",
+            "value": 5
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Kevin Stanfield",
+            "value": 6
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Jim Lyttle",
+            "value": 6
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Gene Locklear",
+            "value": 5
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Bo Diaz",
+            "value": 6
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Bump Wills",
+            "value": 5
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Pat Putnam",
+            "value": 6
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Kurt Bevacqua",
+            "value": 6
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Dal Maxvill",
+            "value": 6
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Cesar Tovar",
+            "value": 5
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Jack Heidemann",
+            "value": 6
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Rich Rollins",
+            "value": 5
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Merv Rettenmund",
+            "value": 5
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Hector Torres",
+            "value": 6
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Walt Williams",
+            "value": 3
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Steve Lombardozzi",
+            "value": 6
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Joe Azcue",
+            "value": 6
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Elliott Maddox",
+            "value": 6
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Elio Chacon",
+            "value": 5
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Rusty Torres",
+            "value": 5
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "John Stearns",
+            "value": 6
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Larry Brown",
+            "value": 5
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Tommy Dean",
+            "value": 6
+        },
+        {
+            "source": "Lee Lacy",
+            "target": "Marty Martinez",
+            "value": 6
+        },
+        {
+            "source": "Pete Rose",
+            "target": "Denny Doyle",
+            "value": 4
+        },
+        {
+            "source": "Pete Rose",
+            "target": "Jose Cardenal",
+            "value": 4
+        },
+        {
+            "source": "Pete Rose",
+            "target": "Juan Bonilla",
+            "value": 4
+        },
+        {
+            "source": "Pete Rose",
+            "target": "Buck Martinez",
+            "value": 4
+        },
+        {
+            "source": "Pete Rose",
+            "target": "Gene Clines",
+            "value": 4
+        },
+        {
+            "source": "Pete Rose",
+            "target": "Ted Ford",
+            "value": 4
+        },
+        {
+            "source": "Pete Rose",
+            "target": "Gene Locklear",
+            "value": 4
+        },
+        {
+            "source": "Pete Rose",
+            "target": "Bump Wills",
+            "value": 4
+        },
+        {
+            "source": "Pete Rose",
+            "target": "Cesar Tovar",
+            "value": 4
+        },
+        {
+            "source": "Pete Rose",
+            "target": "Rich Rollins",
+            "value": 4
+        },
+        {
+            "source": "Pete Rose",
+            "target": "Merv Rettenmund",
+            "value": 4
+        },
+        {
+            "source": "Pete Rose",
+            "target": "Walt Williams",
+            "value": 2
+        },
+        {
+            "source": "Pete Rose",
+            "target": "Elio Chacon",
+            "value": 4
+        },
+        {
+            "source": "Pete Rose",
+            "target": "Rusty Torres",
+            "value": 4
+        },
+        {
+            "source": "Pete Rose",
+            "target": "Larry Brown",
+            "value": 4
+        },
+        {
+            "source": "Danny Walton",
+            "target": "Jerry Buchek",
+            "value": 5
+        },
+        {
+            "source": "Danny Walton",
+            "target": "Ted Ford",
+            "value": 5
+        },
+        {
+            "source": "Danny Walton",
+            "target": "Dal Maxvill",
+            "value": 5
+        },
+        {
+            "source": "Danny Walton",
+            "target": "Rusty Torres",
+            "value": 5
+        },
+        {
+            "source": "Bobby Cox",
+            "target": "Ted Ford",
+            "value": 4
+        },
+        {
+            "source": "Bobby Cox",
+            "target": "Rusty Torres",
+            "value": 4
+        },
+        {
+            "source": "Brad Wellman",
+            "target": "Buck Martinez",
+            "value": 5
+        },
+        {
+            "source": "Brad Wellman",
+            "target": "Bobby Cox",
+            "value": 5
+        },
+        {
+            "source": "Brad Wellman",
+            "target": "Jerry Buchek",
+            "value": 5
+        },
+        {
+            "source": "Brad Wellman",
+            "target": "Ted Ford",
+            "value": 5
+        },
+        {
+            "source": "Brad Wellman",
+            "target": "Dal Maxvill",
+            "value": 5
+        },
+        {
+            "source": "Brad Wellman",
+            "target": "Rusty Torres",
+            "value": 5
+        },
+        {
+            "source": "Jeff Newman",
+            "target": "Tom Brown",
+            "value": 7
+        },
+        {
+            "source": "Jeff Newman",
+            "target": "Denny Lemaster",
+            "value": 7
+        },
+        {
+            "source": "Jeff Newman",
+            "target": "Fritz Peterson",
+            "value": 7
+        },
+        {
+            "source": "Jeff Newman",
+            "target": "John LaRose",
+            "value": 7
+        },
+        {
+            "source": "Jeff Newman",
+            "target": "Jerry Kutzler",
+            "value": 7
+        },
+        {
+            "source": "Jeff Newman",
+            "target": "Rick Wise",
+            "value": 7
+        },
+        {
+            "source": "Jeff Newman",
+            "target": "Eric Wilkins",
+            "value": 7
+        },
+        {
+            "source": "Jeff Newman",
+            "target": "Danny Walton",
+            "value": 7
+        },
+        {
+            "source": "Jeff Newman",
+            "target": "Jerry Buchek",
+            "value": 6
+        },
+        {
+            "source": "Jeff Newman",
+            "target": "Gil Patterson",
+            "value": 7
+        },
+        {
+            "source": "Jeff Newman",
+            "target": "Ted Ford",
+            "value": 6
+        },
+        {
+            "source": "Jeff Newman",
+            "target": "Kevin Stanfield",
+            "value": 7
+        },
+        {
+            "source": "Jeff Newman",
+            "target": "Jerry Ujdur",
+            "value": 7
+        },
+        {
+            "source": "Jeff Newman",
+            "target": "Dal Maxvill",
+            "value": 6
+        },
+        {
+            "source": "Jeff Newman",
+            "target": "Mickey Lolich",
+            "value": 7
+        },
+        {
+            "source": "Jeff Newman",
+            "target": "Jack Heidemann",
+            "value": 7
+        },
+        {
+            "source": "Jeff Newman",
+            "target": "Hector Torres",
+            "value": 7
+        },
+        {
+            "source": "Jeff Newman",
+            "target": "Tony Ferreira",
+            "value": 7
+        },
+        {
+            "source": "Jeff Newman",
+            "target": "Rusty Torres",
+            "value": 6
+        },
+        {
+            "source": "Jeff Newman",
+            "target": "Tommy Dean",
+            "value": 7
+        },
+        {
+            "source": "Pedro Gonzalez",
+            "target": "Frank Tepedino",
+            "value": 5
+        },
+        {
+            "source": "Pedro Gonzalez",
+            "target": "Buck Martinez",
+            "value": 5
+        },
+        {
+            "source": "Pedro Gonzalez",
+            "target": "Bobby Cox",
+            "value": 5
+        },
+        {
+            "source": "Pedro Gonzalez",
+            "target": "Jerry Buchek",
+            "value": 5
+        },
+        {
+            "source": "Pedro Gonzalez",
+            "target": "Wayne Garrett",
+            "value": 5
+        },
+        {
+            "source": "Pedro Gonzalez",
+            "target": "Ted Ford",
+            "value": 5
+        },
+        {
+            "source": "Pedro Gonzalez",
+            "target": "Dal Maxvill",
+            "value": 5
+        },
+        {
+            "source": "Pedro Gonzalez",
+            "target": "Elio Chacon",
+            "value": 4
+        },
+        {
+            "source": "Pedro Gonzalez",
+            "target": "Rusty Torres",
+            "value": 5
+        },
+        {
+            "source": "Pedro Gonzalez",
+            "target": "Larry Brown",
+            "value": 5
+        },
+        {
+            "source": "Tommie Reynolds",
+            "target": "Tom Brown",
+            "value": 7
+        },
+        {
+            "source": "Tommie Reynolds",
+            "target": "Denny Lemaster",
+            "value": 7
+        },
+        {
+            "source": "Tommie Reynolds",
+            "target": "Fritz Peterson",
+            "value": 7
+        },
+        {
+            "source": "Tommie Reynolds",
+            "target": "John LaRose",
+            "value": 7
+        },
+        {
+            "source": "Tommie Reynolds",
+            "target": "Jerry Kutzler",
+            "value": 7
+        },
+        {
+            "source": "Tommie Reynolds",
+            "target": "Rick Wise",
+            "value": 7
+        },
+        {
+            "source": "Tommie Reynolds",
+            "target": "Buck Martinez",
+            "value": 6
+        },
+        {
+            "source": "Tommie Reynolds",
+            "target": "Eric Wilkins",
+            "value": 7
+        },
+        {
+            "source": "Tommie Reynolds",
+            "target": "Danny Walton",
+            "value": 7
+        },
+        {
+            "source": "Tommie Reynolds",
+            "target": "Bobby Cox",
+            "value": 6
+        },
+        {
+            "source": "Tommie Reynolds",
+            "target": "Jerry Buchek",
+            "value": 6
+        },
+        {
+            "source": "Tommie Reynolds",
+            "target": "Gil Patterson",
+            "value": 7
+        },
+        {
+            "source": "Tommie Reynolds",
+            "target": "Ed Brinkman",
+            "value": 7
+        },
+        {
+            "source": "Tommie Reynolds",
+            "target": "Ted Ford",
+            "value": 6
+        },
+        {
+            "source": "Tommie Reynolds",
+            "target": "Kevin Stanfield",
+            "value": 7
+        },
+        {
+            "source": "Tommie Reynolds",
+            "target": "Jerry Ujdur",
+            "value": 7
+        },
+        {
+            "source": "Tommie Reynolds",
+            "target": "Tom Satriano",
+            "value": 7
+        },
+        {
+            "source": "Tommie Reynolds",
+            "target": "Dal Maxvill",
+            "value": 6
+        },
+        {
+            "source": "Tommie Reynolds",
+            "target": "Mickey Lolich",
+            "value": 7
+        },
+        {
+            "source": "Tommie Reynolds",
+            "target": "Jack Heidemann",
+            "value": 7
+        },
+        {
+            "source": "Tommie Reynolds",
+            "target": "Hector Torres",
+            "value": 7
+        },
+        {
+            "source": "Tommie Reynolds",
+            "target": "Tony Ferreira",
+            "value": 7
+        },
+        {
+            "source": "Tommie Reynolds",
+            "target": "Rusty Torres",
+            "value": 6
+        },
+        {
+            "source": "Tommie Reynolds",
+            "target": "Tommy Dean",
+            "value": 7
+        },
+        {
+            "source": "Gene Clines",
+            "target": "Walt Williams",
+            "value": 1
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Tom Brown",
+            "value": 8
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Denny Lemaster",
+            "value": 8
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Denny Doyle",
+            "value": 6
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Mike Ryan",
+            "value": 8
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Fritz Peterson",
+            "value": 7
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Dick Bertell",
+            "value": 7
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Rod Kanehl",
+            "value": 8
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Ozzie Osborn",
+            "value": 8
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "John LaRose",
+            "value": 8
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Frank Tepedino",
+            "value": 7
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Jerry Kutzler",
+            "value": 8
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Rick Wise",
+            "value": 8
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Darrell Evans",
+            "value": 8
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Buck Martinez",
+            "value": 6
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Tommy McCraw",
+            "value": 7
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Eric Wilkins",
+            "value": 8
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Danny Walton",
+            "value": 7
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Bobby Cox",
+            "value": 7
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Brad Wellman",
+            "value": 7
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Jeff Newman",
+            "value": 8
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Pedro Gonzalez",
+            "value": 7
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Nardi Contreras",
+            "value": 8
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Tommie Reynolds",
+            "value": 8
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Jerry Buchek",
+            "value": 7
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Gary Nolan",
+            "value": 8
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Gil Patterson",
+            "value": 8
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Dave Skaggs",
+            "value": 8
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Steve Eddy",
+            "value": 8
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Ed Brinkman",
+            "value": 7
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Wayne Garrett",
+            "value": 7
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Ted Ford",
+            "value": 6
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Kevin Stanfield",
+            "value": 7
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Jim Lyttle",
+            "value": 7
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Jerry Ujdur",
+            "value": 8
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Kurt Bevacqua",
+            "value": 7
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Syd O'Brien",
+            "value": 8
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Tom Satriano",
+            "value": 8
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Dal Maxvill",
+            "value": 7
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Mickey Lolich",
+            "value": 8
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Ray Chadwick",
+            "value": 8
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Jack Heidemann",
+            "value": 7
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Byron Browne",
+            "value": 8
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Hector Torres",
+            "value": 7
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Jerry Koosman",
+            "value": 8
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Steve Lombardozzi",
+            "value": 7
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Tony Ferreira",
+            "value": 8
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Elio Chacon",
+            "value": 6
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Rusty Torres",
+            "value": 6
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Larry Brown",
+            "value": 6
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Tommy Dean",
+            "value": 7
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Kevin Bearse",
+            "value": 8
+        },
+        {
+            "source": "Jim Hickman",
+            "target": "Marty Martinez",
+            "value": 7
+        },
+        {
+            "source": "Jack Billingham",
+            "target": "Tom Brown",
+            "value": 8
+        },
+        {
+            "source": "Jack Billingham",
+            "target": "Ozzie Osborn",
+            "value": 9
+        },
+        {
+            "source": "Jack Billingham",
+            "target": "John LaRose",
+            "value": 8
+        },
+        {
+            "source": "Jack Billingham",
+            "target": "Jeff Byrd",
+            "value": 9
+        },
+        {
+            "source": "Jack Billingham",
+            "target": "Jerry Kutzler",
+            "value": 8
+        },
+        {
+            "source": "Jack Billingham",
+            "target": "Jeff Barkley",
+            "value": 9
+        },
+        {
+            "source": "Jack Billingham",
+            "target": "Eric Wilkins",
+            "value": 8
+        },
+        {
+            "source": "Jack Billingham",
+            "target": "Nardi Contreras",
+            "value": 9
+        },
+        {
+            "source": "Jack Billingham",
+            "target": "Gil Patterson",
+            "value": 8
+        },
+        {
+            "source": "Jack Billingham",
+            "target": "Jerry Garvin",
+            "value": 9
+        },
+        {
+            "source": "Jack Billingham",
+            "target": "Steve Eddy",
+            "value": 9
+        },
+        {
+            "source": "Jack Billingham",
+            "target": "Bud Anderson",
+            "value": 9
+        },
+        {
+            "source": "Jack Billingham",
+            "target": "Kevin Stanfield",
+            "value": 8
+        },
+        {
+            "source": "Jack Billingham",
+            "target": "Jerry Ujdur",
+            "value": 8
+        },
+        {
+            "source": "Jack Billingham",
+            "target": "Bob Fallon",
+            "value": 9
+        },
+        {
+            "source": "Jack Billingham",
+            "target": "Mickey Lolich",
+            "value": 8
+        },
+        {
+            "source": "Jack Billingham",
+            "target": "Ray Chadwick",
+            "value": 9
+        },
+        {
+            "source": "Jack Billingham",
+            "target": "Tony Ferreira",
+            "value": 8
+        },
+        {
+            "source": "Jack Billingham",
+            "target": "Bryan Oelkers",
+            "value": 9
+        },
+        {
+            "source": "Jack Billingham",
+            "target": "Kevin Bearse",
+            "value": 9
+        },
+        {
+            "source": "Jerry Buchek",
+            "target": "Ted Ford",
+            "value": 4
+        },
+        {
+            "source": "Jerry Buchek",
+            "target": "Rusty Torres",
+            "value": 4
+        },
+        {
+            "source": "Ivan DeJesus",
+            "target": "Denny Doyle",
+            "value": 4
+        },
+        {
+            "source": "Ivan DeJesus",
+            "target": "Buck Martinez",
+            "value": 4
+        },
+        {
+            "source": "Ivan DeJesus",
+            "target": "Ted Ford",
+            "value": 4
+        },
+        {
+            "source": "Ivan DeJesus",
+            "target": "Elio Chacon",
+            "value": 4
+        },
+        {
+            "source": "Ivan DeJesus",
+            "target": "Rusty Torres",
+            "value": 4
+        },
+        {
+            "source": "Ivan DeJesus",
+            "target": "Larry Brown",
+            "value": 4
+        },
+        {
+            "source": "Gary Nolan",
+            "target": "Tom Brown",
+            "value": 7
+        },
+        {
+            "source": "Gary Nolan",
+            "target": "Denny Lemaster",
+            "value": 7
+        },
+        {
+            "source": "Gary Nolan",
+            "target": "John LaRose",
+            "value": 7
+        },
+        {
+            "source": "Gary Nolan",
+            "target": "Jerry Kutzler",
+            "value": 7
+        },
+        {
+            "source": "Gary Nolan",
+            "target": "Eric Wilkins",
+            "value": 7
+        },
+        {
+            "source": "Gary Nolan",
+            "target": "Gil Patterson",
+            "value": 7
+        },
+        {
+            "source": "Gary Nolan",
+            "target": "Kevin Stanfield",
+            "value": 7
+        },
+        {
+            "source": "Gary Nolan",
+            "target": "Jerry Ujdur",
+            "value": 7
+        },
+        {
+            "source": "Gary Nolan",
+            "target": "Mickey Lolich",
+            "value": 7
+        },
+        {
+            "source": "Gary Nolan",
+            "target": "Tony Ferreira",
+            "value": 7
+        },
+        {
+            "source": "Fred Whitfield",
+            "target": "Denny Doyle",
+            "value": 5
+        },
+        {
+            "source": "Fred Whitfield",
+            "target": "Fritz Peterson",
+            "value": 6
+        },
+        {
+            "source": "Fred Whitfield",
+            "target": "Dick Bertell",
+            "value": 6
+        },
+        {
+            "source": "Fred Whitfield",
+            "target": "Frank Tepedino",
+            "value": 6
+        },
+        {
+            "source": "Fred Whitfield",
+            "target": "Buck Martinez",
+            "value": 5
+        },
+        {
+            "source": "Fred Whitfield",
+            "target": "Tommy McCraw",
+            "value": 6
+        },
+        {
+            "source": "Fred Whitfield",
+            "target": "Danny Walton",
+            "value": 6
+        },
+        {
+            "source": "Fred Whitfield",
+            "target": "Bobby Cox",
+            "value": 6
+        },
+        {
+            "source": "Fred Whitfield",
+            "target": "Brad Wellman",
+            "value": 6
+        },
+        {
+            "source": "Fred Whitfield",
+            "target": "Pedro Gonzalez",
+            "value": 6
+        },
+        {
+            "source": "Fred Whitfield",
+            "target": "Jerry Buchek",
+            "value": 6
+        },
+        {
+            "source": "Fred Whitfield",
+            "target": "Ed Brinkman",
+            "value": 6
+        },
+        {
+            "source": "Fred Whitfield",
+            "target": "Wayne Garrett",
+            "value": 6
+        },
+        {
+            "source": "Fred Whitfield",
+            "target": "Ted Ford",
+            "value": 5
+        },
+        {
+            "source": "Fred Whitfield",
+            "target": "Kevin Stanfield",
+            "value": 6
+        },
+        {
+            "source": "Fred Whitfield",
+            "target": "Jim Lyttle",
+            "value": 6
+        },
+        {
+            "source": "Fred Whitfield",
+            "target": "Kurt Bevacqua",
+            "value": 6
+        },
+        {
+            "source": "Fred Whitfield",
+            "target": "Dal Maxvill",
+            "value": 6
+        },
+        {
+            "source": "Fred Whitfield",
+            "target": "Jack Heidemann",
+            "value": 6
+        },
+        {
+            "source": "Fred Whitfield",
+            "target": "Hector Torres",
+            "value": 6
+        },
+        {
+            "source": "Fred Whitfield",
+            "target": "Steve Lombardozzi",
+            "value": 6
+        },
+        {
+            "source": "Fred Whitfield",
+            "target": "Joe Azcue",
+            "value": 6
+        },
+        {
+            "source": "Fred Whitfield",
+            "target": "Elio Chacon",
+            "value": 5
+        },
+        {
+            "source": "Fred Whitfield",
+            "target": "Rusty Torres",
+            "value": 5
+        },
+        {
+            "source": "Fred Whitfield",
+            "target": "Larry Brown",
+            "value": 5
+        },
+        {
+            "source": "Fred Whitfield",
+            "target": "Tommy Dean",
+            "value": 6
+        },
+        {
+            "source": "Fred Whitfield",
+            "target": "Marty Martinez",
+            "value": 6
+        },
+        {
+            "source": "Larry Dierker",
+            "target": "Tom Brown",
+            "value": 8
+        },
+        {
+            "source": "Larry Dierker",
+            "target": "Denny Lemaster",
+            "value": 8
+        },
+        {
+            "source": "Larry Dierker",
+            "target": "Ozzie Osborn",
+            "value": 9
+        },
+        {
+            "source": "Larry Dierker",
+            "target": "John LaRose",
+            "value": 8
+        },
+        {
+            "source": "Larry Dierker",
+            "target": "Jeff Byrd",
+            "value": 9
+        },
+        {
+            "source": "Larry Dierker",
+            "target": "Jerry Kutzler",
+            "value": 8
+        },
+        {
+            "source": "Larry Dierker",
+            "target": "Jeff Barkley",
+            "value": 9
+        },
+        {
+            "source": "Larry Dierker",
+            "target": "Eric Wilkins",
+            "value": 8
+        },
+        {
+            "source": "Larry Dierker",
+            "target": "Nardi Contreras",
+            "value": 9
+        },
+        {
+            "source": "Larry Dierker",
+            "target": "Gil Patterson",
+            "value": 8
+        },
+        {
+            "source": "Larry Dierker",
+            "target": "Jerry Garvin",
+            "value": 9
+        },
+        {
+            "source": "Larry Dierker",
+            "target": "Steve Eddy",
+            "value": 9
+        },
+        {
+            "source": "Larry Dierker",
+            "target": "Bud Anderson",
+            "value": 9
+        },
+        {
+            "source": "Larry Dierker",
+            "target": "Kevin Stanfield",
+            "value": 8
+        },
+        {
+            "source": "Larry Dierker",
+            "target": "Jerry Ujdur",
+            "value": 8
+        },
+        {
+            "source": "Larry Dierker",
+            "target": "Bob Fallon",
+            "value": 9
+        },
+        {
+            "source": "Larry Dierker",
+            "target": "Mickey Lolich",
+            "value": 8
+        },
+        {
+            "source": "Larry Dierker",
+            "target": "Ray Chadwick",
+            "value": 9
+        },
+        {
+            "source": "Larry Dierker",
+            "target": "Jerry Koosman",
+            "value": 9
+        },
+        {
+            "source": "Larry Dierker",
+            "target": "Tony Ferreira",
+            "value": 8
+        },
+        {
+            "source": "Larry Dierker",
+            "target": "Bryan Oelkers",
+            "value": 9
+        },
+        {
+            "source": "Larry Dierker",
+            "target": "Kevin Bearse",
+            "value": 9
+        },
+        {
+            "source": "Dave Skaggs",
+            "target": "Tom Brown",
+            "value": 7
+        },
+        {
+            "source": "Dave Skaggs",
+            "target": "Denny Lemaster",
+            "value": 7
+        },
+        {
+            "source": "Dave Skaggs",
+            "target": "Fritz Peterson",
+            "value": 7
+        },
+        {
+            "source": "Dave Skaggs",
+            "target": "John LaRose",
+            "value": 7
+        },
+        {
+            "source": "Dave Skaggs",
+            "target": "Jerry Kutzler",
+            "value": 7
+        },
+        {
+            "source": "Dave Skaggs",
+            "target": "Rick Wise",
+            "value": 7
+        },
+        {
+            "source": "Dave Skaggs",
+            "target": "Buck Martinez",
+            "value": 6
+        },
+        {
+            "source": "Dave Skaggs",
+            "target": "Eric Wilkins",
+            "value": 7
+        },
+        {
+            "source": "Dave Skaggs",
+            "target": "Danny Walton",
+            "value": 7
+        },
+        {
+            "source": "Dave Skaggs",
+            "target": "Bobby Cox",
+            "value": 6
+        },
+        {
+            "source": "Dave Skaggs",
+            "target": "Brad Wellman",
+            "value": 7
+        },
+        {
+            "source": "Dave Skaggs",
+            "target": "Jerry Buchek",
+            "value": 6
+        },
+        {
+            "source": "Dave Skaggs",
+            "target": "Gil Patterson",
+            "value": 7
+        },
+        {
+            "source": "Dave Skaggs",
+            "target": "Ed Brinkman",
+            "value": 7
+        },
+        {
+            "source": "Dave Skaggs",
+            "target": "Wayne Garrett",
+            "value": 6
+        },
+        {
+            "source": "Dave Skaggs",
+            "target": "Ted Ford",
+            "value": 6
+        },
+        {
+            "source": "Dave Skaggs",
+            "target": "Kevin Stanfield",
+            "value": 7
+        },
+        {
+            "source": "Dave Skaggs",
+            "target": "Jerry Ujdur",
+            "value": 7
+        },
+        {
+            "source": "Dave Skaggs",
+            "target": "Kurt Bevacqua",
+            "value": 7
+        },
+        {
+            "source": "Dave Skaggs",
+            "target": "Syd O'Brien",
+            "value": 7
+        },
+        {
+            "source": "Dave Skaggs",
+            "target": "Tom Satriano",
+            "value": 7
+        },
+        {
+            "source": "Dave Skaggs",
+            "target": "Dal Maxvill",
+            "value": 6
+        },
+        {
+            "source": "Dave Skaggs",
+            "target": "Mickey Lolich",
+            "value": 7
+        },
+        {
+            "source": "Dave Skaggs",
+            "target": "Jack Heidemann",
+            "value": 7
+        },
+        {
+            "source": "Dave Skaggs",
+            "target": "Hector Torres",
+            "value": 7
+        },
+        {
+            "source": "Dave Skaggs",
+            "target": "Steve Lombardozzi",
+            "value": 7
+        },
+        {
+            "source": "Dave Skaggs",
+            "target": "Tony Ferreira",
+            "value": 7
+        },
+        {
+            "source": "Dave Skaggs",
+            "target": "Elio Chacon",
+            "value": 5
+        },
+        {
+            "source": "Dave Skaggs",
+            "target": "Rusty Torres",
+            "value": 6
+        },
+        {
+            "source": "Dave Skaggs",
+            "target": "Larry Brown",
+            "value": 6
+        },
+        {
+            "source": "Dave Skaggs",
+            "target": "Tommy Dean",
+            "value": 7
+        },
+        {
+            "source": "Dick Ruthven",
+            "target": "Tom Brown",
+            "value": 8
+        },
+        {
+            "source": "Dick Ruthven",
+            "target": "Denny Lemaster",
+            "value": 8
+        },
+        {
+            "source": "Dick Ruthven",
+            "target": "Fritz Peterson",
+            "value": 7
+        },
+        {
+            "source": "Dick Ruthven",
+            "target": "Ozzie Osborn",
+            "value": 8
+        },
+        {
+            "source": "Dick Ruthven",
+            "target": "John LaRose",
+            "value": 8
+        },
+        {
+            "source": "Dick Ruthven",
+            "target": "Jerry Kutzler",
+            "value": 8
+        },
+        {
+            "source": "Dick Ruthven",
+            "target": "Eric Wilkins",
+            "value": 8
+        },
+        {
+            "source": "Dick Ruthven",
+            "target": "Nardi Contreras",
+            "value": 8
+        },
+        {
+            "source": "Dick Ruthven",
+            "target": "Gary Nolan",
+            "value": 8
+        },
+        {
+            "source": "Dick Ruthven",
+            "target": "Gil Patterson",
+            "value": 8
+        },
+        {
+            "source": "Dick Ruthven",
+            "target": "Steve Eddy",
+            "value": 8
+        },
+        {
+            "source": "Dick Ruthven",
+            "target": "Kevin Stanfield",
+            "value": 7
+        },
+        {
+            "source": "Dick Ruthven",
+            "target": "Jerry Ujdur",
+            "value": 8
+        },
+        {
+            "source": "Dick Ruthven",
+            "target": "Mickey Lolich",
+            "value": 8
+        },
+        {
+            "source": "Dick Ruthven",
+            "target": "Ray Chadwick",
+            "value": 8
+        },
+        {
+            "source": "Dick Ruthven",
+            "target": "Jerry Koosman",
+            "value": 8
+        },
+        {
+            "source": "Dick Ruthven",
+            "target": "Tony Ferreira",
+            "value": 8
+        },
+        {
+            "source": "Dick Ruthven",
+            "target": "Tommy Dean",
+            "value": 7
+        },
+        {
+            "source": "Dick Ruthven",
+            "target": "Kevin Bearse",
+            "value": 8
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Tom Brown",
+            "value": 9
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Denny Lemaster",
+            "value": 9
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Mike Ryan",
+            "value": 10
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Fritz Peterson",
+            "value": 9
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Ozzie Osborn",
+            "value": 10
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "John LaRose",
+            "value": 9
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Jeff Byrd",
+            "value": 10
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Jerry Kutzler",
+            "value": 9
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Rick Wise",
+            "value": 9
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Buck Martinez",
+            "value": 8
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Jeff Barkley",
+            "value": 10
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Eric Wilkins",
+            "value": 9
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Britt Burns",
+            "value": 11
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Danny Walton",
+            "value": 9
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Bobby Cox",
+            "value": 8
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Brad Wellman",
+            "value": 9
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Jeff Newman",
+            "value": 10
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Nardi Contreras",
+            "value": 10
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Tommie Reynolds",
+            "value": 10
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Jack Billingham",
+            "value": 11
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Jerry Buchek",
+            "value": 8
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Gary Nolan",
+            "value": 10
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Gil Patterson",
+            "value": 9
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Larry Dierker",
+            "value": 11
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Dick Ruthven",
+            "value": 10
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Jerry Garvin",
+            "value": 10
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Steve Eddy",
+            "value": 10
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Kevin Mmahat",
+            "value": 11
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Ed Brinkman",
+            "value": 9
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Jim Siwy",
+            "value": 11
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Bud Anderson",
+            "value": 10
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Ted Ford",
+            "value": 8
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Kevin Stanfield",
+            "value": 9
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "John Butcher",
+            "value": 11
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Jerry Ujdur",
+            "value": 9
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Brian Denman",
+            "value": 11
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Bob Fallon",
+            "value": 10
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Syd O'Brien",
+            "value": 9
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Tom Satriano",
+            "value": 9
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Dal Maxvill",
+            "value": 8
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Mickey Lolich",
+            "value": 9
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Ray Chadwick",
+            "value": 10
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Jack Heidemann",
+            "value": 9
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Bryan Clutterbuck",
+            "value": 11
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Hector Torres",
+            "value": 9
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Jerry Koosman",
+            "value": 10
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Steve Lombardozzi",
+            "value": 9
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Tony Ferreira",
+            "value": 9
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Elio Chacon",
+            "value": 7
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Rusty Torres",
+            "value": 8
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Larry Brown",
+            "value": 8
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Tommy Dean",
+            "value": 9
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Bryan Oelkers",
+            "value": 10
+        },
+        {
+            "source": "Dave Kingman",
+            "target": "Kevin Bearse",
+            "value": 10
+        },
+        {
+            "source": "Eric Soderholm",
+            "target": "Denny Doyle",
+            "value": 4
+        },
+        {
+            "source": "Eric Soderholm",
+            "target": "Juan Bonilla",
+            "value": 4
+        },
+        {
+            "source": "Eric Soderholm",
+            "target": "Buck Martinez",
+            "value": 4
+        },
+        {
+            "source": "Eric Soderholm",
+            "target": "Ted Ford",
+            "value": 4
+        },
+        {
+            "source": "Eric Soderholm",
+            "target": "Elio Chacon",
+            "value": 4
+        },
+        {
+            "source": "Eric Soderholm",
+            "target": "Rusty Torres",
+            "value": 4
+        },
+        {
+            "source": "Eric Soderholm",
+            "target": "Larry Brown",
+            "value": 4
+        },
+        {
+            "source": "Ed Brinkman",
+            "target": "Jerry Buchek",
+            "value": 5
+        },
+        {
+            "source": "Ed Brinkman",
+            "target": "Ted Ford",
+            "value": 5
+        }
+    ],
+    "nodes": [
+        {
+            "group": 7,
+            "id": "Tom Brown"
+        },
+        {
+            "group": 7,
+            "id": "Denny Lemaster"
+        },
+        {
+            "group": 5,
+            "id": "Joe Nolan"
+        },
+        {
+            "group": 3,
+            "id": "Denny Doyle"
+        },
+        {
+            "group": 4,
+            "id": "Jose Cardenal"
+        },
+        {
+            "group": 8,
+            "id": "Mike Ryan"
+        },
+        {
+            "group": 6,
+            "id": "Fritz Peterson"
+        },
+        {
+            "group": 6,
+            "id": "Dick Bertell"
+        },
+        {
+            "group": 7,
+            "id": "Rod Kanehl"
+        },
+        {
+            "group": 8,
+            "id": "Ozzie Osborn"
+        },
+        {
+            "group": 7,
+            "id": "John LaRose"
+        },
+        {
+            "group": 9,
+            "id": "Jeff Byrd"
+        },
+        {
+            "group": 3,
+            "id": "Juan Bonilla"
+        },
+        {
+            "group": 5,
+            "id": "Frank Tepedino"
+        },
+        {
+            "group": 7,
+            "id": "Jerry Kutzler"
+        },
+        {
+            "group": 7,
+            "id": "Rick Wise"
+        },
+        {
+            "group": 8,
+            "id": "Darrell Evans"
+        },
+        {
+            "group": 4,
+            "id": "Buck Martinez"
+        },
+        {
+            "group": 6,
+            "id": "John Wockenfuss"
+        },
+        {
+            "group": 6,
+            "id": "Tommy McCraw"
+        },
+        {
+            "group": 9,
+            "id": "Jeff Barkley"
+        },
+        {
+            "group": 7,
+            "id": "Eric Wilkins"
+        },
+        {
+            "group": 11,
+            "id": "Britt Burns"
+        },
+        {
+            "group": 7,
+            "id": "Lee Lacy"
+        },
+        {
+            "group": 5,
+            "id": "Pete Rose"
+        },
+        {
+            "group": 6,
+            "id": "Danny Walton"
+        },
+        {
+            "group": 5,
+            "id": "Bobby Cox"
+        },
+        {
+            "group": 6,
+            "id": "Brad Wellman"
+        },
+        {
+            "group": 8,
+            "id": "Jeff Newman"
+        },
+        {
+            "group": 6,
+            "id": "Pedro Gonzalez"
+        },
+        {
+            "group": 8,
+            "id": "Nardi Contreras"
+        },
+        {
+            "group": 8,
+            "id": "Tommie Reynolds"
+        },
+        {
+            "group": 3,
+            "id": "Gene Clines"
+        },
+        {
+            "group": 9,
+            "id": "Jim Hickman"
+        },
+        {
+            "group": 10,
+            "id": "Jack Billingham"
+        },
+        {
+            "group": 5,
+            "id": "Jerry Buchek"
+        },
+        {
+            "group": 5,
+            "id": "Ivan DeJesus"
+        },
+        {
+            "group": 8,
+            "id": "Gary Nolan"
+        },
+        {
+            "group": 7,
+            "id": "Gil Patterson"
+        },
+        {
+            "group": 7,
+            "id": "Fred Whitfield"
+        },
+        {
+            "group": 10,
+            "id": "Larry Dierker"
+        },
+        {
+            "group": 8,
+            "id": "Dave Skaggs"
+        },
+        {
+            "group": 9,
+            "id": "Dick Ruthven"
+        },
+        {
+            "group": 9,
+            "id": "Jerry Garvin"
+        },
+        {
+            "group": 8,
+            "id": "Steve Eddy"
+        },
+        {
+            "group": 12,
+            "id": "Dave Kingman"
+        },
+        {
+            "group": 5,
+            "id": "Eric Soderholm"
+        },
+        {
+            "group": 11,
+            "id": "Kevin Mmahat"
+        },
+        {
+            "group": 6,
+            "id": "Ed Brinkman"
+        },
+        {
+            "group": 5,
+            "id": "Wayne Garrett"
+        },
+        {
+            "group": 8,
+            "id": "Tony Muser"
+        },
+        {
+            "group": 10,
+            "id": "Jim Siwy"
+        },
+        {
+            "group": 9,
+            "id": "Bud Anderson"
+        },
+        {
+            "group": 4,
+            "id": "Ted Ford"
+        },
+        {
+            "group": 6,
+            "id": "Kevin Stanfield"
+        },
+        {
+            "group": 6,
+            "id": "Jim Lyttle"
+        },
+        {
+            "group": 10,
+            "id": "John Butcher"
+        },
+        {
+            "group": 7,
+            "id": "Jerry Ujdur"
+        },
+        {
+            "group": 9,
+            "id": "Scot Thompson"
+        },
+        {
+            "group": 4,
+            "id": "Gene Locklear"
+        },
+        {
+            "group": 5,
+            "id": "Bo Diaz"
+        },
+        {
+            "group": 3,
+            "id": "Bump Wills"
+        },
+        {
+            "group": 10,
+            "id": "Brian Denman"
+        },
+        {
+            "group": 6,
+            "id": "Pat Putnam"
+        },
+        {
+            "group": 6,
+            "id": "Kurt Bevacqua"
+        },
+        {
+            "group": 9,
+            "id": "Bob Fallon"
+        },
+        {
+            "group": 7,
+            "id": "Syd O'Brien"
+        },
+        {
+            "group": 7,
+            "id": "Chris Chambliss"
+        },
+        {
+            "group": 7,
+            "id": "Tom Satriano"
+        },
+        {
+            "group": 8,
+            "id": "Jeffrey Leonard"
+        },
+        {
+            "group": 5,
+            "id": "Dal Maxvill"
+        },
+        {
+            "group": 12,
+            "id": "Steve Curry"
+        },
+        {
+            "group": 3,
+            "id": "Cesar Tovar"
+        },
+        {
+            "group": 7,
+            "id": "Mickey Lolich"
+        },
+        {
+            "group": 8,
+            "id": "Ray Chadwick"
+        },
+        {
+            "group": 6,
+            "id": "Jack Heidemann"
+        },
+        {
+            "group": 4,
+            "id": "Rich Rollins"
+        },
+        {
+            "group": 13,
+            "id": "Walt Bond"
+        },
+        {
+            "group": 4,
+            "id": "Merv Rettenmund"
+        },
+        {
+            "group": 10,
+            "id": "Bryan Clutterbuck"
+        },
+        {
+            "group": 8,
+            "id": "Byron Browne"
+        },
+        {
+            "group": 6,
+            "id": "Hector Torres"
+        },
+        {
+            "group": 0,
+            "id": "Walt Williams"
+        },
+        {
+            "group": 8,
+            "id": "Jerry Koosman"
+        },
+        {
+            "group": 6,
+            "id": "Steve Lombardozzi"
+        },
+        {
+            "group": 6,
+            "id": "Joe Azcue"
+        },
+        {
+            "group": 5,
+            "id": "Elliott Maddox"
+        },
+        {
+            "group": 8,
+            "id": "Omar Moreno"
+        },
+        {
+            "group": 7,
+            "id": "Julian Javier"
+        },
+        {
+            "group": 7,
+            "id": "Tony Ferreira"
+        },
+        {
+            "group": 3,
+            "id": "Elio Chacon"
+        },
+        {
+            "group": 4,
+            "id": "Rusty Torres"
+        },
+        {
+            "group": 6,
+            "id": "John Stearns"
+        },
+        {
+            "group": 4,
+            "id": "Larry Brown"
+        },
+        {
+            "group": 6,
+            "id": "Tommy Dean"
+        },
+        {
+            "group": 9,
+            "id": "Bryan Oelkers"
+        },
+        {
+            "group": 8,
+            "id": "Kevin Bearse"
+        },
+        {
+            "group": 6,
+            "id": "Marty Martinez"
+        },
+        {
+            "group": 8,
+            "id": "Bruce Boisclair"
+        }
+    ]
+}
